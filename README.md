@@ -29,11 +29,11 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [PayPal for Divi](https://github.com/angelleye/divi-paypal) - Adds a PayPal Buy Now / Donate button module to the Divi theme by Elegant Themes.  Quickly and easily create PayPal Buy Now and Donate buttons.
 * [PayPal for Divi](https://wordpress.org/plugins/angelleye-paypal-for-divi/) - Adds a PayPal Buy Now / Donate button module to the Divi theme by Elegant Themes.  Quickly and easily create PayPal Buy Now and Donate buttons.
 * [ACME Divi Modules](https://wordpress.org/plugins/acme-divi-modules/) - This plugin add some extra modules to Divi Builder.
+* [Expand Divi](https://wordpress.org/plugins/expand-divi/) - A plugin that adds more functionlity to the Divi theme by Elegant Themes.
 
 ## Performance
 
 * [How to Optimize the Divi Gallery Module](http://www.ibenic.com/optimize-divi-gallery-module/) - Divi theme is a great theme for people who aren’t tech-savvy. The Divi Gallery Module is a module where you can create galleries with a slideshow effect. If you have many images in one or more galleries on a page, that page will have a lot of images that load without being seen
-
 
 ## Resource
 

@@ -34,7 +34,8 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 
 ## Performance
 
-* [How to Optimize the Divi Gallery Module](http://www.ibenic.com/optimize-divi-gallery-module/) - Divi theme is a great theme for people who aren’t tech-savvy. The Divi Gallery Module is a module where you can create galleries with a slideshow effect. If you have many images in one or more galleries on a page, that page will have a lot of images that load without being seen
+* [How to Optimize the Divi Gallery Module](http://www.ibenic.com/optimize-divi-gallery-module/) - Divi theme is a great theme for people who aren’t tech-savvy. The Divi Gallery Module is a module where you can create galleries with a slideshow effect. If you have many images in one or more galleries on a page, that page will have a lot of images that load without being seen.
+* [Clear Local Storage Button For Divi](https://gist.github.com/SJ-James/2034db86ed54dea09fa0ed4920261660) - Clear Local Storage Button For Divi.
 
 ## Resource
 

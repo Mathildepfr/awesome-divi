@@ -30,6 +30,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [PayPal for Divi](https://wordpress.org/plugins/angelleye-paypal-for-divi/) - Adds a PayPal Buy Now / Donate button module to the Divi theme by Elegant Themes.  Quickly and easily create PayPal Buy Now and Donate buttons.
 * [ACME Divi Modules](https://wordpress.org/plugins/acme-divi-modules/) - This plugin add some extra modules to Divi Builder.
 * [Expand Divi](https://wordpress.org/plugins/expand-divi/) - A plugin that adds more functionlity to the Divi theme by Elegant Themes.
+* [Feed Excerpts For Divi](https://wordpress.org/plugins/feed-excerpts-for-divi/) - Enable excerpts in the Blog Post Feed for posts that use the Divi Builder Text Module.
 
 ## Performance
 

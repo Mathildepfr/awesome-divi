@@ -31,6 +31,8 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [ACME Divi Modules](https://wordpress.org/plugins/acme-divi-modules/) - This plugin add some extra modules to Divi Builder.
 * [Expand Divi](https://wordpress.org/plugins/expand-divi/) - A plugin that adds more functionlity to the Divi theme by Elegant Themes.
 * [Feed Excerpts For Divi](https://wordpress.org/plugins/feed-excerpts-for-divi/) - Enable excerpts in the Blog Post Feed for posts that use the Divi Builder Text Module.
+* [Popups for Divi](https://wordpress.org/plugins/popups-for-divi/) - Finally a simple and intuitive way to add custom popups to your divi pages.
+* [PAJ Divi Menu Options](https://wordpress.org/plugins/paj-divi-menu-options/) - Adds extra options to the Divi desktop menu via the wordpress customizer.
 
 ## Performance
 

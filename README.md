@@ -34,6 +34,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Popups for Divi](https://wordpress.org/plugins/popups-for-divi/) - Finally a simple and intuitive way to add custom popups to your divi pages.
 * [PAJ Divi Menu Options](https://wordpress.org/plugins/paj-divi-menu-options/) - Adds extra options to the Divi desktop menu via the wordpress customizer.
 * [Image Size Selection for Divi](https://wordpress.org/plugins/image-size-selection-for-divi/) - This extension adds a Visual Builder compatible Divi module that allows the user to select images cropped to a set size.
+* [WP and Divi Icons](https://wordpress.org/plugins/wp-and-divi-icons/) - Adds 300+ new icons to the WordPress editor and the Divi & Extra framework, helping you build standout WordPress web designs.
 
 ## Performance
 

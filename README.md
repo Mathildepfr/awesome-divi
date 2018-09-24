@@ -36,6 +36,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Image Size Selection for Divi](https://wordpress.org/plugins/image-size-selection-for-divi/) - This extension adds a Visual Builder compatible Divi module that allows the user to select images cropped to a set size.
 * [WP and Divi Icons](https://wordpress.org/plugins/wp-and-divi-icons/) - Adds 300+ new icons to the WordPress editor and the Divi & Extra framework, helping you build standout WordPress web designs.
 * [Divi Enhancer – Custom Modules and Options for Divi](https://wordpress.org/plugins/miguras-divi-enhancer/) - Add custom modules and options to Divi.
+* [Supreme Modules for Divi](https://wordpress.org/plugins/supreme-modules-for-divi/) - Supreme Modules enhances the experience and features found on Divi and extend with custom and creative modules to help you build amazing websites.
 
 ## Performance
 

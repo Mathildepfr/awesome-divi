@@ -43,6 +43,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [How to Optimize the Divi Gallery Module](http://www.ibenic.com/optimize-divi-gallery-module/) - Divi theme is a great theme for people who aren’t tech-savvy. The Divi Gallery Module is a module where you can create galleries with a slideshow effect. If you have many images in one or more galleries on a page, that page will have a lot of images that load without being seen.
 * [Clear Local Storage Button For Divi](https://gist.github.com/SJ-James/2034db86ed54dea09fa0ed4920261660) - Clear Local Storage Button For Divi.
 * [Local googleapis Divi fonts](https://wordpress.org/plugins/local-googleapis-divi-fonts/) - Customizations for removing googleapis fonts and loading them from local server.
+* [Lazy Load Divi Section Backgrounds](https://wordpress.org/plugins/lazy-load-divi-section-backgrounds/) - Improve your website performance by lazy loading section backgrounds. This plugin works only with the Divi Builder, usually part of the Divi Theme.
 
 ## Resource
 

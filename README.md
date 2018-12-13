@@ -44,6 +44,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Clear Local Storage Button For Divi](https://gist.github.com/SJ-James/2034db86ed54dea09fa0ed4920261660) - Clear Local Storage Button For Divi.
 * [Local googleapis Divi fonts](https://wordpress.org/plugins/local-googleapis-divi-fonts/) - Customizations for removing googleapis fonts and loading them from local server.
 * [Lazy Load Divi Section Backgrounds](https://wordpress.org/plugins/lazy-load-divi-section-backgrounds/) - Improve your website performance by lazy loading section backgrounds. This plugin works only with the Divi Builder, usually part of the Divi Theme.
+* [Lazy Load Divi Slider Backgrounds](https://wordpress.org/plugins/lazy-load-divi-slider-backgrounds/) - Speed up your website by lazy loading slider backgrounds. This plugin works only with the Divi Builder, usually part of the Divi Theme. No configuration required.
 
 ## Resource
 

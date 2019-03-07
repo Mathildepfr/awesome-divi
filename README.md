@@ -39,6 +39,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Supreme Modules for Divi](https://wordpress.org/plugins/supreme-modules-for-divi/) - Supreme Modules enhances the experience and features found on Divi and extend with custom and creative modules to help you build amazing websites.
 * [Divi Shortcodes Anywhere](https://wordpress.org/plugins/dsa-divi-shortcodes-anywhere/) - Display any divi module inside other module , on archive pages , text widgets or even in menus.
 * [Divi Section Enhancer](https://wordpress.org/plugins/dse-divi-section-enhancer/) -  Improves DIVI Sections capabilities.
+* [Divi Cookie Consent](https://wordpress.org/plugins/cookie-consent-for-divi/) -  Divi Cookie Consent is a free WordPress plugin for alerting users about the use of cookies on your website.
 
 ## Performance
 

@@ -41,6 +41,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Divi Section Enhancer](https://wordpress.org/plugins/dse-divi-section-enhancer/) -  Improves DIVI Sections capabilities.
 * [Divi Cookie Consent](https://wordpress.org/plugins/cookie-consent-for-divi/) -  Divi Cookie Consent is a free WordPress plugin for alerting users about the use of cookies on your website.
 * [Logic Hop Personalization for Divi Add-on](https://wordpress.org/plugins/logic-hop-personalization-for-divi-add-on/) -  The Logic Hop Personalization for Divi Add-on brings the power of personalization to WordPress with Divi Page Builder.
+* [WP Tools Gravity Forms Divi Module](https://wordpress.org/plugins/wp-tools-gravity-forms-divi-module/) -  Most feature-rich divi module for Gravity Forms.
 
 ## Performance
 

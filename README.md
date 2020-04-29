@@ -44,6 +44,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [WP Tools Gravity Forms Divi Module](https://wordpress.org/plugins/wp-tools-gravity-forms-divi-module/) -  Most feature-rich divi module for Gravity Forms.
 * [Module for Gravity Forms in Divi Builder](https://wordpress.org/plugins/module-for-gravity-forms-in-divi-builder/) -  Module for Gravity Forms in Divi Builder allows you to use and style Gravity Forms in the Divi Visual Builder.
 * [Preloader for Divi](https://wordpress.org/plugins/preloader-for-divi/) -  It adds a preloader to the page while site is getting load.
+* [Overlay Image Divi Module](https://wordpress.org/plugins/overlay-image-divi-module/) -  This plugins adds a new module in the Divi Builder. The module allows you add text when you hover over an image. There are two effects that you can choose for the overlay, Fade and Slide.
 
 ## Performance
 

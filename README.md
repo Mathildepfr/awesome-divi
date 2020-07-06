@@ -47,6 +47,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Overlay Image Divi Module](https://wordpress.org/plugins/overlay-image-divi-module/) -  This plugins adds a new module in the Divi Builder. The module allows you add text when you hover over an image. There are two effects that you can choose for the overlay, Fade and Slide.
 * [Breadcrumbs Divi Module](https://wordpress.org/plugins/breadcrumbs-divi-module/) -  The plugin adds a new module, the Breadcrumbs module in the Divi Builder.
 * [Flexstyle for Divi](https://wordpress.org/plugins/flexstyle/) -  Flexstyle add new modern tools to create improved websites with unique UI elements.
+* [Filter for Divi](https://wordpress.org/plugins/filter-for-divi/) -  A plugin to filter every module in the Divi theme.
 
 ## Performance
 

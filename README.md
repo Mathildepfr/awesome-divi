@@ -50,6 +50,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Filter for Divi](https://wordpress.org/plugins/filter-for-divi/) -  A plugin to filter every module in the Divi theme.
 * [LikeablePress Integration of SendFox for Divi](https://wordpress.org/plugins/likeablepress-sendfox-for-divi/) -  SendFox for Divi by LikeablePress gives you full design control over your SendFox Opt-In forms. Design your forms in real time and see the results instantly.
 * [Give – Divi Donation Modules](https://wordpress.org/plugins/give-donation-modules-for-divi/) -  Use GiveWP shortcodes as Divi modules.
+* [WordPress Divi Responsive](https://wordpress.org/plugins/responsive-divi-candy/) -  Divi Responsive extends Divi with exclusives custom responsive options.
 
 ## Performance
 

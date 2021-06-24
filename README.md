@@ -51,6 +51,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [LikeablePress Integration of SendFox for Divi](https://wordpress.org/plugins/likeablepress-sendfox-for-divi/) -  SendFox for Divi by LikeablePress gives you full design control over your SendFox Opt-In forms. Design your forms in real time and see the results instantly.
 * [Give – Divi Donation Modules](https://wordpress.org/plugins/give-donation-modules-for-divi/) -  Use GiveWP shortcodes as Divi modules.
 * [WordPress Divi Responsive](https://wordpress.org/plugins/responsive-divi-candy/) -  Divi Responsive extends Divi with exclusives custom responsive options.
+* [Tutor LMS Divi Modules](https://wordpress.org/plugins/tutor-lms-divi-modules/) -  Easily design your courses and lessons on Divi builder with Tutor LMS.
 
 ## Performance
 

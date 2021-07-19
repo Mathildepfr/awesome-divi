@@ -52,6 +52,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Give – Divi Donation Modules](https://wordpress.org/plugins/give-donation-modules-for-divi/) -  Use GiveWP shortcodes as Divi modules.
 * [WordPress Divi Responsive](https://wordpress.org/plugins/responsive-divi-candy/) -  Divi Responsive extends Divi with exclusives custom responsive options.
 * [Tutor LMS Divi Modules](https://wordpress.org/plugins/tutor-lms-divi-modules/) -  Easily design your courses and lessons on Divi builder with Tutor LMS.
+* [WPTools Masonry Gallery & Posts For Divi](https://wordpress.org/plugins/wptools-masonry-gallery-posts-for-divi/) -  Create masonry gallery for images & blogs using Divi modules.
 
 ## Performance
 

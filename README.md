@@ -5,7 +5,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 - [Awesome Divi](#awesome-divi)
 	- [Layout](#layout)
 	- [Modules](#modules)
-	- [Performance](#performance)
+	- [Performance](#performance) 
 	- [Resource](#resource)
   - [Contributing](#contributing)
 
